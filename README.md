@@ -25,7 +25,7 @@ TFC is a smartphone and web-based system that intends to provide intelligent sim
 
 # Traffic-Flow-Control Application Implementation Structure
 
-
+`Models and Views`
 
 <img width="276" alt="Screenshot 2022-12-07 at 10 58 55 PM" src="https://user-images.githubusercontent.com/102317146/206260000-b460b316-9692-4072-843a-fa39a3f17cac.png">
 
